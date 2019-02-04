@@ -3,3 +3,8 @@
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
+src/church.jpg
+src/debug_slic.jl
+src/images/church.jpg
+src/slic.jl
+church.jpg
